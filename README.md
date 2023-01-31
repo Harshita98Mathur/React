@@ -3,9 +3,13 @@
 React is a JavaScript-based UI development library. Facebook and an open-source developer community run it. Although React is a library rather than a language, it is widely used in web development.
 
 # A React Advice app
-Create an interesting react project from scratch - A React Advice App. 
+
+Create an interesting react project from scratch - A React Advice App.
+
 We're going to use React on the front end and we'll make get requests to Advice Slip JSON API.
+
 Design to receive data from application programming interface (Axios) features using React.
+
 In this application, you can fetch the data from the API and show it on the screen by the click on the button.
 
 # Getting Started with Create React App
